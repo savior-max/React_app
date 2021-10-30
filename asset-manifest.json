@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/React_app/static/css/main.a617e044.chunk.css",
-    "main.js": "/React_app/static/js/main.a2bf15a7.chunk.js",
-    "main.js.map": "/React_app/static/js/main.a2bf15a7.chunk.js.map",
-    "runtime-main.js": "/React_app/static/js/runtime-main.1cccef45.js",
-    "runtime-main.js.map": "/React_app/static/js/runtime-main.1cccef45.js.map",
-    "static/js/2.fc7a9a3c.chunk.js": "/React_app/static/js/2.fc7a9a3c.chunk.js",
-    "static/js/2.fc7a9a3c.chunk.js.map": "/React_app/static/js/2.fc7a9a3c.chunk.js.map",
-    "static/js/3.6789d22b.chunk.js": "/React_app/static/js/3.6789d22b.chunk.js",
-    "static/js/3.6789d22b.chunk.js.map": "/React_app/static/js/3.6789d22b.chunk.js.map",
+    "main.css": "/React_app/static/css/main.e6fe34ff.chunk.css",
+    "main.js": "/React_app/static/js/main.f9ef668d.chunk.js",
+    "main.js.map": "/React_app/static/js/main.f9ef668d.chunk.js.map",
+    "runtime-main.js": "/React_app/static/js/runtime-main.84697876.js",
+    "runtime-main.js.map": "/React_app/static/js/runtime-main.84697876.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/React_app/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c41dd673.chunk.js": "/React_app/static/js/2.c41dd673.chunk.js",
+    "static/js/2.c41dd673.chunk.js.map": "/React_app/static/js/2.c41dd673.chunk.js.map",
     "index.html": "/React_app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/React_app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.fc7a9a3c.chunk.js.LICENSE.txt": "/React_app/static/js/2.fc7a9a3c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React_app/static/media/logo.6ce24c58.svg"
+    "static/css/2.0a9ec390.chunk.css.map": "/React_app/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.e6fe34ff.chunk.css.map": "/React_app/static/css/main.e6fe34ff.chunk.css.map",
+    "static/js/2.c41dd673.chunk.js.LICENSE.txt": "/React_app/static/js/2.c41dd673.chunk.js.LICENSE.txt",
+    "static/media/ContactPage.css": "/React_app/static/media/pexels-johannes-plenio-2259232.e2e29bb5.jpg",
+    "static/media/sec.784eac36.jpg": "/React_app/static/media/sec.784eac36.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cccef45.js",
-    "static/js/2.fc7a9a3c.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.a2bf15a7.chunk.js"
+    "static/js/runtime-main.84697876.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c41dd673.chunk.js",
+    "static/css/main.e6fe34ff.chunk.css",
+    "static/js/main.f9ef668d.chunk.js"
   ]
 }

@@ -1,4 +1,5 @@
-{"homepage":"https://github.com/savior-max/React_app",
+{
+  "homepage": "https://savior-max.github.io/React_app/",
   "name": "react_app",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
